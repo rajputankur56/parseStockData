@@ -1,0 +1,10 @@
+{
+    "host": "localhost",
+    "user": "db_user_name",
+    "password": "password",
+    "database": "stock_data",
+    "data_path": "./computer_technology_data",
+    "fields": "Rank,Name,Symbol,Stock Price,Market Cap,PE Ratio,Dividend Yield,Consensus Rating,Consensus Price Target",
+    "fields_type":"varchar,varchar,varchar,varchar,varchar,decimal,decimal,varchar,varchar",
+    "method": "add_mb_sector_computer_technology_data"
+}

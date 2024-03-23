@@ -1,0 +1,523 @@
+{
+    "0": {
+        "Rank": "#1",
+        "Name": "Apple",
+        "Symbol": "AAPL",
+        "Stock Price": "$184.47\u00a0 (-$1.09)",
+        "Market Cap": "$2.87 trillion",
+        "P/E Ratio": "30.1",
+        "Dividend Yield": "0.53%",
+        "Consensus Rating": "Moderate Buy (24 Buy Ratings, 9 Hold Ratings, 1 Sell Ratings)",
+        "Consensus Price Target": "$199.67 (8.2% Upside)"
+    },
+    "1": {
+        "Rank": "#2",
+        "Name": "Microsoft",
+        "Symbol": "MSFT",
+        "Stock Price": "$374.58\u00a0 (-$0.11)",
+        "Market Cap": "$2.78 trillion",
+        "P/E Ratio": "36.3",
+        "Dividend Yield": "0.82%",
+        "Consensus Rating": "Moderate Buy (36 Buy Ratings, 4 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$395.11 (5.5% Upside)"
+    },
+    "2": {
+        "Rank": "#3",
+        "Name": "Alphabet",
+        "Symbol": "GOOG",
+        "Stock Price": "$142.01\u00a0 (+$1.48)",
+        "Market Cap": "$1.78 trillion",
+        "P/E Ratio": "27.3",
+        "Consensus Rating": "Buy (9 Buy Ratings, 0 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$131.93 (-7.1% Upside)"
+    },
+    "3": {
+        "Rank": "#4",
+        "Name": "NVIDIA",
+        "Symbol": "NVDA",
+        "Stock Price": "$531.83\u00a0 (+$9.30)",
+        "Market Cap": "$1.31 trillion",
+        "P/E Ratio": "70.2",
+        "Dividend Yield": "0.03%",
+        "Consensus Rating": "Moderate Buy (34 Buy Ratings, 3 Hold Ratings, 1 Sell Ratings)",
+        "Consensus Price Target": "$593.26 (11.6% Upside)"
+    },
+    "4": {
+        "Rank": "#5",
+        "Name": "Meta Platforms",
+        "Symbol": "META",
+        "Stock Price": "$358.59\u00a0 (-$0.07)",
+        "Market Cap": "$921.53 billion",
+        "P/E Ratio": "31.6",
+        "Consensus Rating": "Moderate Buy (44 Buy Ratings, 4 Hold Ratings, 2 Sell Ratings)",
+        "Consensus Price Target": "$355.34 (-0.9% Upside)"
+    },
+    "5": {
+        "Rank": "#6",
+        "Name": "Taiwan Semiconductor Manufacturing",
+        "Symbol": "TSM",
+        "Stock Price": "$101.17\u00a0 (-$1.07)",
+        "Market Cap": "$524.71 billion",
+        "P/E Ratio": "18.2",
+        "Dividend Yield": "1.52%",
+        "Consensus Rating": "Buy (4 Buy Ratings, 0 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$116.67 (15.3% Upside)"
+    },
+    "6": {
+        "Rank": "#7",
+        "Name": "Broadcom",
+        "Symbol": "AVGO",
+        "Stock Price": "$1,076.02\u00a0 (+$1.17)",
+        "Market Cap": "$503.73 billion",
+        "P/E Ratio": "32.7",
+        "Dividend Yield": "2.00%",
+        "Consensus Rating": "Moderate Buy (15 Buy Ratings, 4 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$944.67 (-12.2% Upside)"
+    },
+    "7": {
+        "Rank": "#8",
+        "Name": "Oracle",
+        "Symbol": "ORCL",
+        "Stock Price": "$103.83\u00a0 (-$0.83)",
+        "Market Cap": "$285.42 billion",
+        "P/E Ratio": "28.7",
+        "Dividend Yield": "1.56%",
+        "Consensus Rating": "Moderate Buy (13 Buy Ratings, 10 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$127.00 (22.3% Upside)"
+    },
+    "8": {
+        "Rank": "#9",
+        "Name": "ASML",
+        "Symbol": "ASML",
+        "Stock Price": "$716.63\u00a0 (-$4.21)",
+        "Market Cap": "$282.78 billion",
+        "P/E Ratio": "34.8",
+        "Dividend Yield": "0.74%",
+        "Consensus Rating": "Moderate Buy (7 Buy Ratings, 5 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$795.50 (11.0% Upside)"
+    },
+    "9": {
+        "Rank": "#10",
+        "Name": "Adobe",
+        "Symbol": "ADBE",
+        "Stock Price": "$586.35\u00a0 (+$5.80)",
+        "Market Cap": "$266.97 billion",
+        "P/E Ratio": "49.6",
+        "Consensus Rating": "Moderate Buy (21 Buy Ratings, 6 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$617.21 (5.3% Upside)"
+    },
+    "10": {
+        "Rank": "#11",
+        "Name": "Salesforce",
+        "Symbol": "CRM",
+        "Stock Price": "$262.89\u00a0 (+$2.02)",
+        "Market Cap": "$254.48 billion",
+        "P/E Ratio": "100.0",
+        "Consensus Rating": "Moderate Buy (27 Buy Ratings, 12 Hold Ratings, 1 Sell Ratings)",
+        "Consensus Price Target": "$260.14 (-1.0% Upside)"
+    },
+    "11": {
+        "Rank": "#12",
+        "Name": "Advanced Micro Devices",
+        "Symbol": "AMD",
+        "Stock Price": "$148.61\u00a0 (+$2.43)",
+        "Market Cap": "$237.78 billion",
+        "P/E Ratio": "1,238.5",
+        "Consensus Rating": "Moderate Buy (23 Buy Ratings, 3 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$139.50 (-6.1% Upside)"
+    },
+    "12": {
+        "Rank": "#13",
+        "Name": "Intel",
+        "Symbol": "INTC",
+        "Stock Price": "$48.20\u00a0 (-$0.25)",
+        "Market Cap": "$203.21 billion",
+        "Dividend Yield": "1.07%",
+        "Consensus Rating": "Hold (6 Buy Ratings, 20 Hold Ratings, 3 Sell Ratings)",
+        "Consensus Price Target": "$37.39 (-22.4% Upside)"
+    },
+    "13": {
+        "Rank": "#14",
+        "Name": "Cisco Systems",
+        "Symbol": "CSCO",
+        "Stock Price": "$49.77\u00a0 (-$0.69)",
+        "Market Cap": "$202.24 billion",
+        "P/E Ratio": "15.0",
+        "Dividend Yield": "3.11%",
+        "Consensus Rating": "Hold (8 Buy Ratings, 13 Hold Ratings, 2 Sell Ratings)",
+        "Consensus Price Target": "$58.38 (17.3% Upside)"
+    },
+    "14": {
+        "Rank": "#15",
+        "Name": "T-Mobile US",
+        "Symbol": "TMUS",
+        "Stock Price": "$162.94\u00a0 (-$0.47)",
+        "Market Cap": "$188.44 billion",
+        "P/E Ratio": "25.3",
+        "Dividend Yield": "1.59%",
+        "Consensus Rating": "Buy (14 Buy Ratings, 1 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$182.35 (11.9% Upside)"
+    },
+    "15": {
+        "Rank": "#16",
+        "Name": "SAP",
+        "Symbol": "SAP",
+        "Stock Price": "$152.07\u00a0 (-$0.49)",
+        "Market Cap": "$176.76 billion",
+        "P/E Ratio": "29.2",
+        "Dividend Yield": "1.08%",
+        "Consensus Rating": "Moderate Buy (6 Buy Ratings, 4 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$151.00 (-0.7% Upside)"
+    },
+    "16": {
+        "Rank": "#17",
+        "Name": "Intuit",
+        "Symbol": "INTU",
+        "Stock Price": "$601.87\u00a0 (+$3.49)",
+        "Market Cap": "$168.46 billion",
+        "P/E Ratio": "65.8",
+        "Dividend Yield": "0.61%",
+        "Consensus Rating": "Moderate Buy (20 Buy Ratings, 4 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$587.67 (-2.4% Upside)"
+    },
+    "17": {
+        "Rank": "#18",
+        "Name": "Verizon Communications",
+        "Symbol": "VZ",
+        "Stock Price": "$39.13\u00a0 (-$0.97)",
+        "Market Cap": "$164.51 billion",
+        "P/E Ratio": "7.9",
+        "Dividend Yield": "6.62%",
+        "Consensus Rating": "Moderate Buy (9 Buy Ratings, 4 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$42.62 (8.9% Upside)"
+    },
+    "18": {
+        "Rank": "#19",
+        "Name": "QUALCOMM",
+        "Symbol": "QCOM",
+        "Stock Price": "$139.77\u00a0 (+$0.74)",
+        "Market Cap": "$155.56 billion",
+        "P/E Ratio": "21.8",
+        "Dividend Yield": "2.34%",
+        "Consensus Rating": "Moderate Buy (12 Buy Ratings, 6 Hold Ratings, 1 Sell Ratings)",
+        "Consensus Price Target": "$138.50 (-0.9% Upside)"
+    },
+    "19": {
+        "Rank": "#20",
+        "Name": "Texas Instruments",
+        "Symbol": "TXN",
+        "Stock Price": "$169.87\u00a0 (+$1.33)",
+        "Market Cap": "$154.28 billion",
+        "P/E Ratio": "22.1",
+        "Dividend Yield": "3.15%",
+        "Consensus Rating": "Hold (6 Buy Ratings, 9 Hold Ratings, 3 Sell Ratings)",
+        "Consensus Price Target": "$174.55 (2.8% Upside)"
+    },
+    "20": {
+        "Rank": "#21",
+        "Name": "International Business Machines",
+        "Symbol": "IBM",
+        "Stock Price": "$160.21\u00a0 (-$0.93)",
+        "Market Cap": "$146.29 billion",
+        "P/E Ratio": "21.2",
+        "Dividend Yield": "4.17%",
+        "Consensus Rating": "Hold (4 Buy Ratings, 8 Hold Ratings, 1 Sell Ratings)",
+        "Consensus Price Target": "$151.77 (-5.3% Upside)"
+    },
+    "21": {
+        "Rank": "#22",
+        "Name": "ServiceNow",
+        "Symbol": "NOW",
+        "Stock Price": "$699.18\u00a0 (+$2.92)",
+        "Market Cap": "$143.33 billion",
+        "P/E Ratio": "90.6",
+        "Consensus Rating": "Moderate Buy (28 Buy Ratings, 2 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$621.39 (-11.1% Upside)"
+    },
+    "22": {
+        "Rank": "#23",
+        "Name": "Applied Materials",
+        "Symbol": "AMAT",
+        "Stock Price": "$150.55\u00a0 (-$1.01)",
+        "Market Cap": "$125.12 billion",
+        "P/E Ratio": "18.6",
+        "Dividend Yield": "0.86%",
+        "Consensus Rating": "Moderate Buy (18 Buy Ratings, 6 Hold Ratings, 1 Sell Ratings)",
+        "Consensus Price Target": "$164.21 (9.1% Upside)"
+    },
+    "23": {
+        "Rank": "#24",
+        "Name": "Uber Technologies",
+        "Symbol": "UBER",
+        "Stock Price": "$60.21\u00a0 (+$1.20)",
+        "Market Cap": "$123.90 billion",
+        "P/E Ratio": "122.9",
+        "Consensus Rating": "Moderate Buy (30 Buy Ratings, 1 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$57.82 (-4.0% Upside)"
+    },
+    "24": {
+        "Rank": "#25",
+        "Name": "AT&T",
+        "Symbol": "T",
+        "Stock Price": "$16.91\u00a0 (-$0.41)",
+        "Market Cap": "$120.91 billion",
+        "Dividend Yield": "6.35%",
+        "Consensus Rating": "Moderate Buy (6 Buy Ratings, 6 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$20.68 (22.3% Upside)"
+    },
+    "25": {
+        "Rank": "#26",
+        "Name": "Shopify",
+        "Symbol": "SHOP",
+        "Stock Price": "$79.10\u00a0 (+$1.41)",
+        "Market Cap": "$101.44 billion",
+        "Consensus Rating": "Hold (17 Buy Ratings, 21 Hold Ratings, 2 Sell Ratings)",
+        "Consensus Price Target": "$69.51 (-12.1% Upside)"
+    },
+    "26": {
+        "Rank": "#27",
+        "Name": "Lam Research",
+        "Symbol": "LRCX",
+        "Stock Price": "$752.92\u00a0 (-$4.24)",
+        "Market Cap": "$99.23 billion",
+        "P/E Ratio": "25.6",
+        "Dividend Yield": "1.09%",
+        "Consensus Rating": "Moderate Buy (14 Buy Ratings, 6 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$685.75 (-8.9% Upside)"
+    },
+    "27": {
+        "Rank": "#28",
+        "Name": "Analog Devices",
+        "Symbol": "ADI",
+        "Stock Price": "$188.93\u00a0 (-$0.05)",
+        "Market Cap": "$93.76 billion",
+        "P/E Ratio": "28.9",
+        "Dividend Yield": "1.84%",
+        "Consensus Rating": "Moderate Buy (16 Buy Ratings, 6 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$204.74 (8.4% Upside)"
+    },
+    "28": {
+        "Rank": "#29",
+        "Name": "Palo Alto Networks",
+        "Symbol": "PANW",
+        "Stock Price": "$297.20\u00a0 (+$7.70)",
+        "Market Cap": "$93.71 billion",
+        "P/E Ratio": "168.9",
+        "Consensus Rating": "Moderate Buy (35 Buy Ratings, 5 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$279.67 (-5.9% Upside)"
+    },
+    "29": {
+        "Rank": "#30",
+        "Name": "Micron Technology",
+        "Symbol": "MU",
+        "Stock Price": "$83.77\u00a0 (-$1.18)",
+        "Market Cap": "$91.73 billion",
+        "Dividend Yield": "0.55%",
+        "Consensus Rating": "Moderate Buy (21 Buy Ratings, 2 Hold Ratings, 1 Sell Ratings)",
+        "Consensus Price Target": "$93.70 (11.9% Upside)"
+    },
+    "30": {
+        "Rank": "#31",
+        "Name": "Airbnb",
+        "Symbol": "ABNB",
+        "Stock Price": "$138.22\u00a0 (-$1.86)",
+        "Market Cap": "$89.63 billion",
+        "P/E Ratio": "16.7",
+        "Consensus Rating": "Hold (13 Buy Ratings, 16 Hold Ratings, 5 Sell Ratings)",
+        "Consensus Price Target": "$139.34 (0.8% Upside)"
+    },
+    "31": {
+        "Rank": "#32",
+        "Name": "Fiserv",
+        "Symbol": "FISV",
+        "Stock Price": "$135.23\u00a0 (+$2.66)",
+        "Market Cap": "$84.94 billion",
+        "P/E Ratio": "35.7",
+        "Consensus Rating": "N/A (0 Buy Ratings, 0 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "N/A"
+    },
+    "32": {
+        "Rank": "#33",
+        "Name": "Arista Networks",
+        "Symbol": "ANET",
+        "Stock Price": "$246.59\u00a0 (+$0.74)",
+        "Market Cap": "$76.71 billion",
+        "P/E Ratio": "41.1",
+        "Consensus Rating": "Moderate Buy (17 Buy Ratings, 2 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$222.65 (-9.7% Upside)"
+    },
+    "33": {
+        "Rank": "#34",
+        "Name": "Synopsys",
+        "Symbol": "SNPS",
+        "Stock Price": "$500.81\u00a0 (+$0.83)",
+        "Market Cap": "$76.12 billion",
+        "P/E Ratio": "63.1",
+        "Consensus Rating": "Buy (10 Buy Ratings, 0 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$576.60 (15.1% Upside)"
+    },
+    "34": {
+        "Rank": "#35",
+        "Name": "KLA",
+        "Symbol": "KLAC",
+        "Stock Price": "$559.00\u00a0 (-$3.36)",
+        "Market Cap": "$75.98 billion",
+        "P/E Ratio": "25.1",
+        "Dividend Yield": "1.07%",
+        "Consensus Rating": "Hold (8 Buy Ratings, 8 Hold Ratings, 1 Sell Ratings)",
+        "Consensus Price Target": "$527.94 (-5.6% Upside)"
+    },
+    "35": {
+        "Rank": "#36",
+        "Name": "Infosys",
+        "Symbol": "INFY",
+        "Stock Price": "$18.30\u00a0 (-$0.10)",
+        "Market Cap": "$75.74 billion",
+        "P/E Ratio": "25.4",
+        "Dividend Yield": "2.02%",
+        "Consensus Rating": "Hold (4 Buy Ratings, 5 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$18.93 (3.5% Upside)"
+    },
+    "36": {
+        "Rank": "#37",
+        "Name": "Relx",
+        "Symbol": "RELX",
+        "Stock Price": "$39.58\u00a0 (-$0.61)",
+        "Market Cap": "$74.70 billion",
+        "Dividend Yield": "1.07%",
+        "Consensus Rating": "Moderate Buy (3 Buy Ratings, 1 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "N/A"
+    },
+    "37": {
+        "Rank": "#38",
+        "Name": "Workday",
+        "Symbol": "WDAY",
+        "Stock Price": "$275.84\u00a0 (+$2.90)",
+        "Market Cap": "$72.55 billion",
+        "P/E Ratio": "1,149.3",
+        "Consensus Rating": "Moderate Buy (24 Buy Ratings, 7 Hold Ratings, 1 Sell Ratings)",
+        "Consensus Price Target": "$261.31 (-5.3% Upside)"
+    },
+    "38": {
+        "Rank": "#39",
+        "Name": "Cadence Design Systems",
+        "Symbol": "CDNS",
+        "Stock Price": "$262.98\u00a0 (+$1.07)",
+        "Market Cap": "$71.55 billion",
+        "P/E Ratio": "74.9",
+        "Consensus Rating": "Moderate Buy (9 Buy Ratings, 1 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$264.50 (0.6% Upside)"
+    },
+    "39": {
+        "Rank": "#40",
+        "Name": "PayPal",
+        "Symbol": "PYPL",
+        "Stock Price": "$61.85\u00a0 (+$0.11)",
+        "Market Cap": "$68.04 billion",
+        "P/E Ratio": "18.4",
+        "Consensus Rating": "Hold (15 Buy Ratings, 19 Hold Ratings, 1 Sell Ratings)",
+        "Consensus Price Target": "$74.48 (20.4% Upside)"
+    },
+    "40": {
+        "Rank": "#41",
+        "Name": "CrowdStrike",
+        "Symbol": "CRWD",
+        "Stock Price": "$273.70\u00a0 (+$12.42)",
+        "Market Cap": "$65.73 billion",
+        "Consensus Rating": "Moderate Buy (35 Buy Ratings, 1 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$227.97 (-16.7% Upside)"
+    },
+    "41": {
+        "Rank": "#42",
+        "Name": "Snowflake",
+        "Symbol": "SNOW",
+        "Stock Price": "$196.11\u00a0 (-$0.24)",
+        "Market Cap": "$64.58 billion",
+        "Consensus Rating": "Moderate Buy (20 Buy Ratings, 5 Hold Ratings, 2 Sell Ratings)",
+        "Consensus Price Target": "$196.28 (0.1% Upside)"
+    },
+    "42": {
+        "Rank": "#43",
+        "Name": "VMware",
+        "Symbol": "VMW",
+        "Stock Price": "$143.00\u00a0 (+$0.52)",
+        "Market Cap": "$61.75 billion",
+        "P/E Ratio": "43.2",
+        "Consensus Rating": "Hold (0 Buy Ratings, 4 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$160.25 (12.1% Upside)"
+    },
+    "43": {
+        "Rank": "#44",
+        "Name": "Dell Technologies",
+        "Symbol": "DVMT",
+        "Stock Price": "$80.00",
+        "Market Cap": "$61.44 billion",
+        "P/E Ratio": "13.0",
+        "Consensus Rating": "N/A (0 Buy Ratings, 0 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "N/A"
+    },
+    "44": {
+        "Rank": "#45",
+        "Name": "Atlassian",
+        "Symbol": "TEAM",
+        "Stock Price": "$236.11\u00a0 (+$0.52)",
+        "Market Cap": "$60.93 billion",
+        "Consensus Rating": "Moderate Buy (10 Buy Ratings, 9 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$203.22 (-13.9% Upside)"
+    },
+    "45": {
+        "Rank": "#46",
+        "Name": "NetEase",
+        "Symbol": "NTES",
+        "Stock Price": "$89.51\u00a0 (-$0.60)",
+        "Market Cap": "$57.71 billion",
+        "P/E Ratio": "15.5",
+        "Dividend Yield": "2.16%",
+        "Consensus Rating": "Buy (5 Buy Ratings, 0 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$126.00 (40.8% Upside)"
+    },
+    "46": {
+        "Rank": "#47",
+        "Name": "Amphenol",
+        "Symbol": "APH",
+        "Stock Price": "$96.00\u00a0 (-$0.58)",
+        "Market Cap": "$57.44 billion",
+        "P/E Ratio": "31.0",
+        "Dividend Yield": "0.93%",
+        "Consensus Rating": "Moderate Buy (4 Buy Ratings, 1 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$98.38 (2.5% Upside)"
+    },
+    "47": {
+        "Rank": "#48",
+        "Name": "Am\u00e9rica M\u00f3vil",
+        "Symbol": "AMX",
+        "Stock Price": "$18.16\u00a0 (-$0.15)",
+        "Market Cap": "$57.11 billion",
+        "P/E Ratio": "14.9",
+        "Dividend Yield": "1.42%",
+        "Consensus Rating": "Hold (5 Buy Ratings, 3 Hold Ratings, 1 Sell Ratings)",
+        "Consensus Price Target": "$22.21 (22.3% Upside)"
+    },
+    "48": {
+        "Rank": "#49",
+        "Name": "Roper Technologies",
+        "Symbol": "ROP",
+        "Stock Price": "$531.69\u00a0 (+$2.91)",
+        "Market Cap": "$56.80 billion",
+        "P/E Ratio": "19.4",
+        "Dividend Yield": "0.52%",
+        "Consensus Rating": "Moderate Buy (9 Buy Ratings, 5 Hold Ratings, 0 Sell Ratings)",
+        "Consensus Price Target": "$537.14 (1.0% Upside)"
+    },
+    "49": {
+        "Rank": "#50",
+        "Name": "NXP Semiconductors",
+        "Symbol": "NXPI",
+        "Stock Price": "$210.20\u00a0 (-$1.97)",
+        "Market Cap": "$54.18 billion",
+        "P/E Ratio": "19.5",
+        "Dividend Yield": "1.97%",
+        "Consensus Rating": "Hold (9 Buy Ratings, 10 Hold Ratings, 1 Sell Ratings)",
+        "Consensus Price Target": "$223.88 (6.5% Upside)"
+    }
+}
