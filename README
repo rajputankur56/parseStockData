@@ -1,0 +1,18 @@
+
+Step : Action
+
+1 -  RUN CMD : "pip install mysql-connector-python"
+2 -  Configure *_config.json
+3 -  execute "python  main.py" on terminal
+
+
+
+1. Separate script for each json to SQL Build
+2. Each script to use a separate Config.json file containing
+MySQL Host, User, Password, Database, 
+input data path of the json data file, 
+archive path to move the json data file after processing
+3. Archive - a subfolder within the input data path folder
+4. Drop Tables if exist and CREATE Tables
+5. Create Archive folder if does not exist. 
+6. Basic dynamic concept to fix the columns for the tables. If any new columns introduced in json file in the future, only the current structure should be considered and ignore new columns.
